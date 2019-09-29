@@ -2,7 +2,7 @@
 [Build NN from strach - Computer Vision](#buildNNfromstrach)
 [Marketing Funnel Analysis By Olist](#MarketFunnel)
 
-***
+___
 
 ## Build NN from strach - Computer Vision<a name="buildNNfromstrach"></a>
 [back to top](#backtotop)
@@ -24,7 +24,7 @@ Tutorial Link: https://towardsdatascience.com/step-by-step-guide-to-building-you
 
 > The model achieved 99% accuracy on training data and 70% on testing data
 
-***
+___
 
 ## Marketing Funnel Analysis By Olist<a name="MarketFunnel"></a>
 [back to top](#backtotop)
@@ -36,4 +36,5 @@ The dataset has information of 8k Marketing Qualified Leads (MQLs) that requeste
 Its features allows viewing a sales process from multiple dimensions: lead category, catalog size, behaviour profile, etc.
 
 This is real data, it has been anonymized and sampled from the original dataset.
-***
+
+___
