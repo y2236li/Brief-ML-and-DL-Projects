@@ -1,6 +1,7 @@
 <a name="backtotop"></a>
-[Build NN from strach - Computer Vision](#buildNNfromstrach)
-[Marketing Funnel Analysis By Olist](#MarketFunnel)
+# Project List
+- [Build NN from strach - Computer Vision](#buildNNfromstrach)<br>
+- [Marketing Funnel Analysis By Olist](#MarketFunnel)<br>
 
 ___
 
