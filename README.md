@@ -27,7 +27,7 @@ Tutorial Link: https://towardsdatascience.com/step-by-step-guide-to-building-you
 
 ___
 
-## Marketing Funnel Analysis By Olist<a name="MarketFunnel"></a>
+## Marketing Funnel Analysis<a name="MarketFunnel"></a>
 [back to top](#backtotop)
 
 Notice: The Following text are refered from https://www.kaggle.com/olistbr/marketing-funnel-olist/home
