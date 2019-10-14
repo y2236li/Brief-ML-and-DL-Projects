@@ -54,13 +54,13 @@ The project aims to predict daily rising/dropping trending of Dow Jones Industri
 The models below may not be well optimized but fair enough to set a reasonable baseline 
 
 **The following models are applied:**
-> Logistic Regression
-> Multinomial Naive Bayes
-> Random Forest
-> Gradient Boosting Machines
-> Naive Bayes SVM
-> Multilayer Perceptron Neural Network(MLP)
-> LSTM Neural Network
-> Bidirectional LSTM Neural Network
-> Convolutional Neural Network
+> Logistic Regression<br>
+> Multinomial Naive Bayes<br>
+> Random Forest<br>
+> Gradient Boosting Machines<br>
+> Naive Bayes SVM<br>
+> Multilayer Perceptron Neural Network(MLP)<br>
+> LSTM Neural Network<br>
+> Bidirectional LSTM Neural Network<br>
+> Convolutional Neural Network<br>
 ___
