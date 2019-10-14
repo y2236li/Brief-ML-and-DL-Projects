@@ -52,14 +52,14 @@ The project aims to predict daily rising/dropping trending of Dow Jones Industri
 **DJIA data** is downloaded from Yahoo Finance 
 
 
-**The following models are applied:**
-> 1. Logistic Regression<br>
-> 2. Multinomial Naive Bayes<br>
-> 3. Random Forest<br>
-> 4. Gradient Boosting Machines<br>
-> 5. Naive Bayes SVM<br>
-> 6. Multilayer Perceptron Neural Network(MLP)<br>
-> 7. LSTM Neural Network<br>
-> 8. Bidirectional LSTM Neural Network<br>
-> 9. Convolutional Neural Network<br>
+**The following models are applied and their accuracy:**
+> 1. 61% -- Logistic Regression<br>
+> 2. 55% -- Multinomial Naive Bayes<br>
+> 3. 52% -- Random Forest<br>
+> 4. 54% -- Gradient Boosting Machines<br>
+> 5. 52% -- Naive Bayes SVM<br>
+> 6. 56% -- Multilayer Perceptron Neural Network(MLP)<br>
+> 7. 55% -- LSTM Neural Network<br>
+> 8. 55% -- Bidirectional LSTM Neural Network<br>
+> 9. 54% -- Convolutional Neural Network<br>
 ___
