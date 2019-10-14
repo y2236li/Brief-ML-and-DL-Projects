@@ -2,6 +2,8 @@
 # Project List
 - [Build NN from strach - Computer Vision](#buildNNfromstrach)<br>
 - [Marketing Funnel Analysis By Olist](#MarketFunnel)<br>
+- [Using News to Predict Stock Market](#NewsStockMarket)<br>
+
 
 ___
 
@@ -38,4 +40,27 @@ Its features allows viewing a sales process from multiple dimensions: lead categ
 
 This is real data, it has been anonymized and sampled from the original dataset.
 
+___
+
+## Using News to Predict Stock Market<a name="NewsStockMarket"></a>
+[back to top](#backtotop)
+
+The project aims to predict daily rising/dropping trending of Dow Jones Industrial Average(AJIA) by news headlines. In other words, this is a binary classification NLP project
+
+**News data** is crawled from Reddit WorldNews Channel 
+
+**DJIA data** is downloaded from Yahoo Finance 
+
+The models below may not be well optimized but fair enough to set a reasonable baseline 
+
+**The following models are applied:**
+> Logistic Regression
+> Multinomial Naive Bayes
+> Random Forest
+> Gradient Boosting Machines
+> Naive Bayes SVM
+> Multilayer Perceptron Neural Network(MLP)
+> LSTM Neural Network
+> Bidirectional LSTM Neural Network
+> Convolutional Neural Network
 ___
