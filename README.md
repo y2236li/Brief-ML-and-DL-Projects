@@ -68,6 +68,23 @@ ___
 
 The project aims to train a lander to land on a pad by deep Q learning <br>
 
+Agent Actions:
+> 0: Do nothing
+> 1: Fire left engine
+> 2: Fire down engine
+> 3. Fire right engine
+
+Agent Reward:
+> 100 - 140 point: Moving from the top of the screen to landing pad and zero speed
+> -100 point: Crashes
+> 100 point: Comes to rest
+> 10 point: Landing on each leg
+> -0.3 point: Firing main engine per frame
+> 200 point: solved
+
+Q Formula: <br>
+> Q = reward + gamma*max(rewards from the next state) <br>
+
 The lander at the beginning:<br>
 <a href="https://imgflip.com/gif/3gnzww"><img src="https://i.imgflip.com/3gnzww.gif" title="made at imgflip.com"/></a> <br>
 
