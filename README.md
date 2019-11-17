@@ -66,12 +66,12 @@ ___
 ## Lunar Lander Deep Q Learning
 [back to top](#backtotop)
 
-The project aims to train a lander to land on a pad by deep q learning
+The project aims to train a lander to land on a pad by deep Q learning <br>
 
-The lander at the beginning:
-<a href="https://imgflip.com/gif/3gnzww"><img src="https://i.imgflip.com/3gnzww.gif" title="made at imgflip.com"/></a>
+The lander at the beginning:<br>
+<a href="https://imgflip.com/gif/3gnzww"><img src="https://i.imgflip.com/3gnzww.gif" title="made at imgflip.com"/></a> <br>
 
-After Training:
-<a href="https://imgflip.com/gif/3go36o"><img src="https://i.imgflip.com/3go36o.gif" title="made at imgflip.com"/></a>
+After Training:<br>
+<a href="https://imgflip.com/gif/3go36o"><img src="https://i.imgflip.com/3go36o.gif" title="made at imgflip.com"/></a> <br>
 
 Tutorial Link: https://github.com/philtabor
