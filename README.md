@@ -70,7 +70,8 @@ ___
 
 This project aims to find a optimal path from a given node to another <br>
 Path Visualization: <br>
-![PathVisualization](https://github.com/y2236li/Brief-ML-and-DL-Projects/blob/master/Path%20Finding%20by%20Q%20Learning/Path%20Finding%20Visualization.png)
+![PathVisualization](https://github.com/y2236li/Brief-ML-and-DL-Projects/blob/master/Path%20Finding%20by%20Q%20Learning/Path%20Finding%20Visualization.png) <br>
+
 Goal:<br>
 Find the closest route from node 1 to node 7 <br>
 
