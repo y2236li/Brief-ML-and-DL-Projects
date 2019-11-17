@@ -70,16 +70,22 @@ ___
 
 This project aims to find a optimal path from a given node to another <br>
 Path Visualization: <br>
-
+![PathVisualization](https://github.com/y2236li/Brief-ML-and-DL-Projects/blob/master/Path%20Finding%20by%20Q%20Learning/Path%20Finding%20Visualization.png)
 Goal:<br>
 Find the closest route from node 1 to node 7 <br>
 
-Agent reward in this example:
+Agent State:
+> Current Node
+
+Agent Actions:
+> Move to transitable adjacent nodes
+
+Agent Reward:
 > 100: transition end with the destination node (e.g. R[2, 7] = R[4, 7] = 100)
 > 0: If there is a transition between two nodes (e.g. R[0, 1] = R[1, 2] = 0)
 > -1: if there is no transition between two nodes (e.g. R[0, 3] = R[6, 4] = -1)
 
-Use dynamic programming to random sample and update Q values by <br>
+Use **dynamic programming** to random sample and update Q values by <br>
 > Q = reward + gamma*max(rewards from the next state) <br>
 
 Output: <1, 2, 7>
@@ -89,6 +95,9 @@ ___
 [back to top](#backtotop)
 
 The project aims to train a lander to land on a pad by deep Q learning <br>
+
+Agent State:
+> Postion of lander: represented by pixel postion and info
 
 Agent Actions:
 > 0: Do nothing
@@ -104,6 +113,7 @@ Agent Reward:
 > -0.3 point: Firing main engine per frame
 > 200 point: solved
 
+Agent randomly samples N transition from memory. According to the transition and the rewards in the memory, Agent calculates the corresponding Q values and feeds into a MLP Neural Network. The Neural Network will ouput the action by the agent's current state.
 Q Formula: <br>
 > Q = reward + gamma*max(rewards from the next state) <br>
 
