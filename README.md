@@ -73,7 +73,7 @@ Path Visualization: <br>
 ![PathVisualization](https://github.com/y2236li/Brief-ML-and-DL-Projects/blob/master/Path%20Finding%20by%20Q%20Learning/Path%20Finding%20Visualization.png) <br>
 
 Goal:<br>
-Find the closest route from node 1 to node 7 <br>
+**Find the closest route from node 1 to node 7** <br>
 
 Agent State:
 > Current Node
@@ -95,7 +95,8 @@ ___
 ## Lunar Lander Deep Q Learning<a name="LunarLander"></a>
 [back to top](#backtotop)
 
-The project aims to train a lander to land on a pad by deep Q learning <br>
+Goal: <br>
+**The project aims to train a lander to land on a pad by deep Q learning** <br>
 
 Agent State:
 > Postion of lander: represented by pixel postion and info
@@ -114,7 +115,8 @@ Agent Reward:
 > -0.3 point: Firing main engine per frame
 > 200 point: solved
 
-Agent randomly samples N transition from memory. According to the transition and the rewards in the memory, Agent calculates the corresponding Q values and feeds into a MLP Neural Network. The Neural Network will ouput the action by the agent's current state.
+Agent randomly samples N transition from memory. According to the transition and the rewards in the memory, Agent calculates the corresponding Q values and feeds into a **Two-Layer MLP Neural Network**. The Neural Network will ouput the action by the agent's current state. <br>
+
 Q Formula: <br>
 > Q = reward + gamma*max(rewards from the next state) <br>
 
