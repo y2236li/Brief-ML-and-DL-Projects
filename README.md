@@ -3,6 +3,7 @@
 - [Build NN from strach - Computer Vision](#buildNNfromstrach)<br>
 - [Marketing Funnel Analysis By Olist](#MarketFunnel)<br>
 - [Using News to Predict Stock Market](#NewsStockMarket)<br>
+- [Lunar Lander Deep Q Learning](#LunarLander)<br>
 
 
 ___
@@ -63,7 +64,7 @@ The project aims to predict daily rising/dropping trending of Dow Jones Industri
 > 8. 55% -- Bidirectional LSTM Neural Network<br>
 > 9. 54% -- Convolutional Neural Network<br>
 ___
-## Lunar Lander Deep Q Learning
+## Lunar Lander Deep Q Learning<a name="LunarLander"></a>
 [back to top](#backtotop)
 
 The project aims to train a lander to land on a pad by deep Q learning <br>
