@@ -63,3 +63,15 @@ The project aims to predict daily rising/dropping trending of Dow Jones Industri
 > 8. 55% -- Bidirectional LSTM Neural Network<br>
 > 9. 54% -- Convolutional Neural Network<br>
 ___
+## Lunar Lander Deep Q Learning
+[back to top](#backtotop)
+
+The project aims to train a lander to land on a pad by deep q learning
+
+The lander at the beginning:
+<a href="https://imgflip.com/gif/3gnzww"><img src="https://i.imgflip.com/3gnzww.gif" title="made at imgflip.com"/></a>
+
+After Training:
+<a href="https://imgflip.com/gif/3go36o"><img src="https://i.imgflip.com/3go36o.gif" title="made at imgflip.com"/></a>
+
+Tutorial Link: https://github.com/philtabor
