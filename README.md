@@ -65,7 +65,7 @@ The project aims to predict daily rising/dropping trending of Dow Jones Industri
 > 8. 55% -- Bidirectional LSTM Neural Network<br>
 > 9. 54% -- Convolutional Neural Network<br>
 ___
-## Path Finding by Q Learning <a name ="SimpleQLearning></a>
+## Path Finding by Q Learning<a name ="SimpleQLearning></a>
 [back to top](#backtotop)
 
 This project aims to find a optimal path from a given node to another <br>
